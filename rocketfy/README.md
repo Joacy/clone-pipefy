@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">
-    <img align="center" alt="Home Rocketfy" title="#home" src="./git/capa.png" width="100%" />
+    <img align="center" alt="Home Rocketfy" title="#home" src="../git/capa.png" width="100%" />
 </h1>
 
 <h2 title='#projeto'>
